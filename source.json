@@ -1,6 +1,5 @@
 {
-  "sourceRepository": "https://github.com/ChiZhang-805/nava-app",
-  "sourceCommit": "00826372167d45b414531d4426ccc35c5ebbae6e",
-  "builtAt": "2026-09-06T03:38:11.2899896Z",
-  "release": "v106"
+  "version": 107,
+  "sourceCommit": "52f35805f652acdfbf80511816cfab11eb5e860b",
+  "sitesVersionId": "appgprj_6a5de710811c8191af8ce2681358d518~appgver_e87af76cf1b081918bfa690dcf068818"
 }
