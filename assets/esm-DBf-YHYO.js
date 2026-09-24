@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-bTsbItmq.js","./dist-B2FW1Wim.js"])))=>i.map(i=>d[i]);
+import{i as e}from"./supabaseClient-CoqE2sxg.js";import{i as t}from"./dist-B2FW1Wim.js";var n=t(`App`,{web:()=>e(()=>import(`./web-bTsbItmq.js`).then(e=>new e.AppWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as t};
