@@ -1,1 +1,0 @@
-import{v as e}from"./PageSkeleton-B9w-M_O_.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};
