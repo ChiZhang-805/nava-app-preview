@@ -1,0 +1,1 @@
+import{k as e}from"./independentReminders-BOkReZI6.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};
