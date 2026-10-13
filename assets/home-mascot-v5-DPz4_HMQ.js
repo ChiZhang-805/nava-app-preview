@@ -1,0 +1,1 @@
+var e=``+new URL(`home-mascot-v5-BPWLmmlb.png`,import.meta.url).href;export{e as t};
