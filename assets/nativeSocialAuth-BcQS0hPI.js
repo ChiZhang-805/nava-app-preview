@@ -1,0 +1,1 @@
+import{a as e}from"./dist-D-QTtKii.js";var t=e(`NavaAppleSignIn`),n=e(`NavaExternalAuth`);function r(){return t.signIn()}async function i(e){return(await n.start({url:e,callbackScheme:`nava`})).callbackUrl}export{i as openNativeSocialAuth,r as requestNativeAppleCredential};

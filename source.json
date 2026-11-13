@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "6084cea289ab6e22aee98f4a285fc8170a8d464e",
-  "sitesVersion": 275,
-  "generatedAt": "2026-11-03T19:36:56Z",
-  "sourceBranch": "main"
+  "sourceCommit": "85904de04ce6a5f74cf0ee720c46151a09158076",
+  "sitesVersion": 276,
+  "generatedAt": "2026-11-13T07:20:25Z",
+  "sourceBranch": "release/testflight-cloud-20261109-auth"
 }
